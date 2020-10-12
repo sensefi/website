@@ -9,9 +9,9 @@ module.exports = {
   projectName: 'sensefi.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Sense Finance',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Sense Finance',
         src: 'img/logo.svg',
       },
       items: [
@@ -22,11 +22,11 @@ module.exports = {
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
+        /*{
+          href: 'https://github.com/sensefi/website',
           label: 'GitHub',
           position: 'right',
-        },
+        },*/
       ],
     },
     footer: {
@@ -36,29 +36,29 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Join Guide',
               to: 'docs/',
-            },
+            }, 
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
+              label: "What's Sense Token",
+              to: 'docs/doc2'
+            }
           ],
         },
         {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Telegram',
+              href: 'https://t.me/sensefi',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discordapp.com/invite/sensefi',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/sensefi',
             },
           ],
         },
@@ -71,7 +71,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/sensefi/sensefi',
             },
           ],
         },
@@ -87,13 +87,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/sensefi/website/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/sensefi/website/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
