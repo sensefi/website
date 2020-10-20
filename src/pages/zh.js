@@ -8,30 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Stable Coin',
+    title: '稳定币',
     //imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Rebase periodically. Stable coin.
+        周期性rebase，币值稳定.
       </>
     ),
   },
   {
-    title: 'Decentrailized Fund',
+    title: '去中心化基金',
     //imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Sense Token is initial minted with ETH as the backend, the value is solid. 
-        Lp tokens belong to all participants, decentrailized fund for holders. 
+        初始发行以ETH背书，坚实的价值基础. 参与者拥有流动池份额，去中心化基金.
       </>
     ),
   },
   {
-    title: 'Community Governance',
+    title: '社区治理',
     //imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Community decide everything. 
+        社区决定一切.
       </>
     ),
   },
@@ -69,8 +68,8 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/')}>
-              Get Started
+              to={useBaseUrl('docs/doc1_zh')}>
+              加入
             </Link>
           </div>
         </div>

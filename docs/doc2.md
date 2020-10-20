@@ -6,10 +6,10 @@ sidebar_label: What is sense
 
 
 ###### Sense is the Token of sense finance.
-###### It's ERC20.
-###### It's a governance token.
+It's ERC20.
+It can be rebased to about 1$ all the time.
+It's a governance token.
+Eth backend, solid value and active community.
 
-###### Only 100,000 SENSE ( as 50ETH)  is issued at the begining,  for encouraging the initial partners to manage the community.
-###### The only way to get SENSE is join the SENSE MINTER to mint SENSE.
-###### You can get SENSE TOKEN  immediately.
-###### And you will get Uniswap LP token later. 
+
+

@@ -22,11 +22,16 @@ module.exports = {
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
-        /*{
-          href: 'https://github.com/sensefi/website',
-          label: 'GitHub',
+        {
+          to: '/zh',
+          label: '中文',
           position: 'right',
-        },*/
+        },
+        {
+          to: '/',
+          label: 'English',
+          position: 'right',
+        },
       ],
     },
     footer: {
@@ -71,7 +76,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/sensefi/sensefi',
+              href: 'https://github.com/sensefi/contracts',
             },
           ],
         },

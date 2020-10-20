@@ -12,10 +12,12 @@ Sense Need You!
 
 Sense is Looking for partners!
 
-1. manager of the website, 10000 SENSE token reward
-2. owner of the community, 10000 SENSE token reward
-3. owner of the sub communities of special language, EN, CN, JP, KR etc. 2000 ~ 10000 SENSE token reward
+1. manager of the official website
+2. manager of community, telegram, discord, facebook, twitter, etc.
 
-only 10 partners, join now. 
+Sense Token reward.  
+please join the telegram channel [SENSE](https://t.me/sensefi) [@sensefi](https://t.me/sensefi)   
+please contact the dev [Evo Dev](https://t.me/evodev007) [@evodev007](https://t.me/evodev007)
+
 
 
